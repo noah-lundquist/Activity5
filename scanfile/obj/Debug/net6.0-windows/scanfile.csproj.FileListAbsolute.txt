@@ -1,0 +1,17 @@
+C:\Users\noahl\source\repos\scanfile\scanfile\bin\Debug\net6.0-windows\scanfile.exe
+C:\Users\noahl\source\repos\scanfile\scanfile\bin\Debug\net6.0-windows\scanfile.deps.json
+C:\Users\noahl\source\repos\scanfile\scanfile\bin\Debug\net6.0-windows\scanfile.runtimeconfig.json
+C:\Users\noahl\source\repos\scanfile\scanfile\bin\Debug\net6.0-windows\scanfile.dll
+C:\Users\noahl\source\repos\scanfile\scanfile\bin\Debug\net6.0-windows\ref\scanfile.dll
+C:\Users\noahl\source\repos\scanfile\scanfile\bin\Debug\net6.0-windows\scanfile.pdb
+C:\Users\noahl\source\repos\scanfile\scanfile\obj\Debug\net6.0-windows\scanfile.csproj.AssemblyReference.cache
+C:\Users\noahl\source\repos\scanfile\scanfile\obj\Debug\net6.0-windows\scanfile.Form1.resources
+C:\Users\noahl\source\repos\scanfile\scanfile\obj\Debug\net6.0-windows\scanfile.csproj.GenerateResource.cache
+C:\Users\noahl\source\repos\scanfile\scanfile\obj\Debug\net6.0-windows\scanfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahl\source\repos\scanfile\scanfile\obj\Debug\net6.0-windows\scanfile.AssemblyInfoInputs.cache
+C:\Users\noahl\source\repos\scanfile\scanfile\obj\Debug\net6.0-windows\scanfile.AssemblyInfo.cs
+C:\Users\noahl\source\repos\scanfile\scanfile\obj\Debug\net6.0-windows\scanfile.csproj.CoreCompileInputs.cache
+C:\Users\noahl\source\repos\scanfile\scanfile\obj\Debug\net6.0-windows\scanfile.dll
+C:\Users\noahl\source\repos\scanfile\scanfile\obj\Debug\net6.0-windows\ref\scanfile.dll
+C:\Users\noahl\source\repos\scanfile\scanfile\obj\Debug\net6.0-windows\scanfile.pdb
+C:\Users\noahl\source\repos\scanfile\scanfile\obj\Debug\net6.0-windows\scanfile.genruntimeconfig.cache
